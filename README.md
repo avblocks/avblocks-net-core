@@ -8,11 +8,11 @@ For AVBlocks .NET demo samples and usage instructions check the following repos:
 
 ## How to obtain Commercial License
 
+See [License Options](https://avblocks.com/license/) for details.
+
 We offer discounts for:
 
 - Competitive product
 - Startup
 - Educational institution
 - Open source project
-
-See [License Options](https://avblocks.com/license/) for details.
